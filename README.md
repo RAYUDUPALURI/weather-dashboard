@@ -3,7 +3,7 @@ Welcome to the Weather Dashboard application!
 
 This dashboard provides real-time weather information for locations around the world, helping users stay informed about current and forecasted weather conditions.
 
-Features:
+## Features:
 
 Current weather display: Get up-to-date weather information, including temperature, humidity, wind speed, and conditions.
 5-day forecast: Plan ahead with a detailed forecast for the next five days.
